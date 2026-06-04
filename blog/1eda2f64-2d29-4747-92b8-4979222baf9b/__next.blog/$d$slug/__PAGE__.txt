@@ -1,0 +1,230 @@
+1:"$Sreact.fragment"
+2:I[65348,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js","/_next/static/chunks/7f89c2349e581c33.js","/_next/static/chunks/00208b78c5e519ea.js","/_next/static/chunks/f7222ff3a176003e.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:T14ac,<style>
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+  .post {
+    font-family: 'Open Sans', Arial, sans-serif;
+    color: #f1f1f1;
+    line-height: 1.9;
+    max-width: 760px;
+  }
+
+  .title {
+    font-size: 34px;
+    font-weight: 700;
+    margin-bottom: 18px;
+    color: #ffffff;
+  }
+
+  .lead {
+    font-size: 20px;
+    color: #e0e0e0;
+    margin-bottom: 34px;
+    font-weight: 400;
+  }
+
+  .section {
+    font-size: 24px;
+    font-weight: 600;
+    margin: 46px 0 18px;
+    color: #ffffff;
+  }
+
+  .text {
+    margin-bottom: 24px;
+    font-size: 17px;
+    font-weight: 300;
+  }
+
+  .quote {
+    background: #f5f5f5;
+    color: #111;
+    border: 2px solid #dddddd;
+    border-radius: 10px;
+    padding: 22px;
+    font-style: normal;
+    margin: 40px 0;
+    font-weight: 400;
+    font-size: 16.5px;
+  }
+
+  .strong {
+    font-weight: 600;
+    color: #ffffff;
+  }
+
+  .closing {
+    font-size: 21px;
+    font-weight: 700;
+    margin-top: 52px;
+    color: #ffffff;
+  }
+</style>
+
+<div class="post">
+
+  <p class="lead">
+    Może znasz ten stan aż za dobrze.<br>
+    Cichy niepokój, który pojawia się znienacka.<br>
+    Sprawdzanie, dopytywanie, analizowanie szczegółów.<br>
+    I myśl, której nie chcesz wypowiadać na głos -<br>
+    bo boisz się, że gdy ją nazwiesz, stanie się prawdziwa.
+  </p>
+
+  <p class="text">
+    Zazdrość rzadko pojawia się nagle i bez powodu.
+    Najczęściej rośnie powoli, w cieniu codzienności,
+    w relacji, która z pozoru funkcjonuje „normalnie”.
+  </p>
+
+  <p class="text">
+    Wbrew temu, co często słyszymy,
+    zazdrość <span class="strong">nie zawsze jest dowodem miłości</span>.
+    Bardzo często jest sygnałem lęku,
+    braku poczucia bezpieczeństwa
+    i obawy przed stratą.
+  </p>
+
+  <img class="image"
+       <img src="https://firebasestorage.googleapis.com/v0/b/ebok-80476.firebasestorage.app/o/blog-inline-images%2F1769188457636-9.jpg?alt=media&token=8d02b8f9-d6b1-48aa-aa9f-7c8cf294f388" alt="" class="w-full rounded-xl my-6" />
+
+  <p class="section">Jak zazdrość przejmuje kontrolę nad relacją</p>
+
+  <p class="text">
+    Na początku bywa subtelna.
+    Jedno dodatkowe pytanie.
+    Jedno spojrzenie dłużej niż zwykle.
+    Prośba o wyjaśnienie, która brzmi niewinnie.
+  </p>
+
+  <p class="text">
+    Z czasem jednak zazdrość zaczyna
+    <span class="strong">organizować codzienność</span>.
+    To ona decyduje, o co pytasz,
+    czego unikasz,
+    a co sprawdzasz w ciszy.
+  </p>
+
+  <p class="text">
+    Pojawia się kontrola.<br>
+    Podejrzliwość.<br>
+    Niedopowiedzenia.
+  </p>
+
+  <p class="text">
+    Atmosfera gęstnieje,
+    nawet jeśli obiektywnie
+    „nic złego się nie dzieje”.
+  </p>
+
+  <p class="section">Dlaczego zazdrość boli tak mocno?</p>
+
+  <p class="text">
+    Bo rzadko dotyczy wyłącznie drugiej osoby.
+    W swojej istocie zazdrość mówi więcej
+    o tym, <span class="strong">jak czujemy się sami ze sobą</span>,
+    niż o realnym zagrożeniu.
+  </p>
+
+  <p class="text">
+    Bardzo często maskuje:
+  </p>
+
+  <ul class="list">
+    <li>- lęk przed odrzuceniem i porzuceniem</li>
+    <li>- brak wiary we własną wartość</li>
+    <li>- doświadczenia zdrady lub emocjonalnych strat z przeszłości</li>
+    <li>- poczucie, że „nie jestem wystarczający / wystarczająca”</li>
+  </ul>
+
+  <div class="quote">
+    Zazdrość nie jest problemem sama w sobie.
+    Problemem jest to, co próbujemy nią przykryć.
+  </div>
+
+  <p class="section">Dlaczego kontrola nie działa</p>
+
+  <p class="text">
+    Kontrola daje krótkotrwałe poczucie ulgi.
+    Na moment uspokaja napięcie,
+    ale nie rozwiązuje jego źródła.
+  </p>
+
+  <p class="text">
+    Z czasem prowadzi do dokładnie
+    przeciwnego efektu -
+    osłabia zaufanie,
+    budzi opór
+    i oddala zamiast chronić.
+  </p>
+
+  <p class="text">
+    Relacja, w której jedna osoba
+    czuje się stale sprawdzana,
+    przestaje być przestrzenią bezpieczeństwa.
+  </p>
+
+  <p class="section">Co możesz zrobić inaczej</p>
+
+  <p class="text">
+    Zamiast próbować kontrolować partnera,
+    spróbuj zatrzymać się przy sobie.
+    Zadaj sobie pytanie:
+    <span class="strong">czego tak naprawdę się boję?</span>
+  </p>
+
+  <p class="text">
+    Następnie spróbuj nazwać swój stan,
+    bez oskarżeń i domysłów:
+  </p>
+
+  <div class="quote">
+    „Czuję niepokój i chciałbym/chciałabym o tym porozmawiać,
+    bo ta relacja jest dla mnie ważna.”
+  </div>
+
+  <p class="text">
+    Taki komunikat nie atakuje.
+    Otwiera przestrzeń na rozmowę,
+    zamiast uruchamiać obronę.
+  </p>
+
+  <p class="section">Jak budować relację odporną na zazdrość</p>
+
+  <p class="text">
+    Bezpieczeństwo w relacji
+    nie rodzi się z kontroli,
+    lecz z konsekwentnej,
+    szczerej komunikacji.
+  </p>
+
+  <p class="text">
+    Rozmowy o granicach,
+    potrzebach i obawach
+    są znacznie trudniejsze
+    niż sprawdzanie telefonu -
+    ale to one budują zaufanie.
+  </p>
+
+  <p class="text">
+    Im więcej otwartości,
+    tym mniej miejsca na domysły.
+  </p>
+
+  <p class="closing">
+    Zapamiętaj jedno:<br><br>
+    Zaufania nie da się wymusić.<br>
+    Można je tylko budować
+    codziennie, małymi decyzjami.
+  </p>
+
+</div>
+0:{"buildId":"_C9d6E2uvdhOuAugQe1p9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"id":"1eda2f64-2d29-4747-92b8-4979222baf9b","title":"Zazdrość zaczyna rządzić relacją","slug":"zazdrosc-zaczyna-rzadzic-relacja","category":"Relacje i związki","excerpt":"Może znasz ten stan aż za dobrze.\nCichy niepokój, który pojawia się znienacka.\nSprawdzanie, dopytywanie, analizowanie szczegółów.\nI myśl, której nie chcesz wypowiadać na głos -\nbo boisz się, że gdy ją nazwiesz, stanie się prawdziwa.\n\nZazdrość rzadko pojawia się nagle i bez powodu. Najczęściej rośnie powoli, w cieniu codzienności, w relacji, która z pozoru funkcjonuje „normalnie”.","mainImage":"https://storage.googleapis.com/postyblogmaker.firebasestorage.app/blog-main-images/437d3c1f-04dd-4ce9-ba82-1bbda42ac0b0.jpeg","htmlContent":"$3","published":true,"createdAt":"2026-01-26T17:13:33.000Z","updatedAt":"2026-02-08T18:33:08.000Z"}}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/_next/static/chunks/7f89c2349e581c33.js","async":true}]
+5:["$","script","script-1",{"src":"/_next/static/chunks/00208b78c5e519ea.js","async":true}]
+6:["$","script","script-2",{"src":"/_next/static/chunks/f7222ff3a176003e.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

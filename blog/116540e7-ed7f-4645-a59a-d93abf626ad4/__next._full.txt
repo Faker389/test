@@ -1,0 +1,274 @@
+1:"$Sreact.fragment"
+2:I[79520,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js"],""]
+4:I[2355,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js"],"Analytics"]
+5:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+6:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+7:I[36768,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js","/_next/static/chunks/e44b48e32ae42669.js"],"default"]
+8:I[39566,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js"],"default"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
+f:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
+11:I[68027,[],"default"]
+:HL["/_next/static/chunks/5d0a2a34d3157634.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.479bea2b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:["$","img",null,{"height":"1","width":"1","style":{"display":"none"},"src":"https://www.facebook.com/tr?id=1977166209847517&ev=PageView&noscript=1","alt":""}]
+0:{"P":null,"b":"_C9d6E2uvdhOuAugQe1p9","c":["","blog","116540e7-ed7f-4645-a59a-d93abf626ad4"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","116540e7-ed7f-4645-a59a-d93abf626ad4","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/5d0a2a34d3157634.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/fcba8160327439c9.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/5ab255cd557fbf02.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"pl","children":[["$","head",null,{"children":[["$","meta",null,{"name":"msvalidate.01","content":"AFBF2F4E184A2D36B32969B7874DAB5B"}],["$","meta",null,{"name":"google-site-verification","content":"zYxQ9CrDARbwWtLmhlJkk2M-9zFIvevWkCqnPgV0zuI"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{"id":"facebook-pixel","strategy":"lazyOnload","children":"\n            !function(f,b,e,v,n,t,s)\n            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n            n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n            n.queue=[];t=b.createElement(e);t.async=!0;\n            t.src=v;s=b.getElementsByTagName(e)[0];\n            s.parentNode.insertBefore(t,s)}(window, document,'script',\n            '/scripts/fbevents.js');\n            fbq('init', '1977166209847517');\n            fbq('track', 'PageView');\n          "}],["$","noscript",null,{"children":"$3"}],["$","$L4",null,{}],["$","div",null,{"className":"gradient-bg relative min-h-screen overflow-hidden","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L9",[["$","script","script-0",{"src":"/_next/static/chunks/7f89c2349e581c33.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/00208b78c5e519ea.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/f7222ff3a176003e.js","async":true,"nonce":"$undefined"}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$b",null,{"name":"Next.Metadata","children":"$L10"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$11",[]],"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[65348,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js","/_next/static/chunks/7f89c2349e581c33.js","/_next/static/chunks/00208b78c5e519ea.js","/_next/static/chunks/f7222ff3a176003e.js"],"default"]
+14:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+13:T1752,<style>
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+  .post {
+    font-family: 'Open Sans', Arial, sans-serif;
+    color: #f1f1f1;
+    line-height: 1.9;
+    max-width: 760px;
+  }
+
+  .title {
+    font-size: 34px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #ffffff;
+  }
+
+  .lead {
+    font-size: 20px;
+    color: #dedede;
+    margin-bottom: 38px;
+  }
+
+  .section {
+    font-size: 24px;
+    font-weight: 600;
+    margin: 50px 0 20px;
+    color: #ffffff;
+  }
+
+  .text {
+    margin-bottom: 24px;
+    font-size: 17px;
+    font-weight: 300;
+  }
+
+  .quote {
+    background: #f5f5f5;
+    color: #111;
+    border: 2px solid #dddddd;
+    border-radius: 10px;
+    padding: 22px;
+    margin: 42px 0;
+    font-size: 16.5px;
+  }
+
+  .exercise {
+    background: rgba(255,255,255,0.06);
+    border-left: 4px solid #aaa;
+    padding: 24px;
+    margin: 42px 0;
+  }
+
+  .exercise-title {
+    font-weight: 600;
+    margin-bottom: 14px;
+    color: #ffffff;
+  }
+
+  .strong {
+    font-weight: 600;
+    color: #ffffff;
+  }
+
+  .closing {
+    font-size: 21px;
+    font-weight: 700;
+    margin-top: 56px;
+    color: #ffffff;
+  }
+</style>
+
+<div class="post">
+
+  <p class="lead">
+    To rzadko zaczyna się od zazdrości.<br>
+    Częściej od niepokoju.<br>
+    Od trudnego do nazwania uczucia w brzuchu,
+    które pojawia się bez wyraźnego powodu.
+  </p>
+
+  <p class="text">
+    Nawet kiedy mówisz sobie:
+    „przecież wszystko jest w porządku”,
+    napięcie gdzieś zostaje.
+    Jakby coś w środku nie dawało się uspokoić
+    logicznymi argumentami.
+  </p>
+
+  <p class="text">
+    Ten niepokój bywa cichy.
+    Nie robi scen.
+    Nie domaga się natychmiastowej reakcji.
+    Ale jest wytrwały.
+    Wraca w najmniej oczekiwanych momentach.
+  </p>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/ebok-80476.firebasestorage.app/o/blog-inline-images%2F1769458043964-15.jpg?alt=media&token=b095a94c-0f19-4ea3-8b53-828f220b8ace" alt="" class="w-full rounded-xl my-6" />
+
+  <p class="section">Jak to zaczyna wyglądać w praktyce</p>
+
+  <p class="text">
+    Na zewnątrz wszystko wydaje się niewinne.
+    Bez dramatów.
+    Bez jednoznacznych sygnałów ostrzegawczych.
+  </p>
+
+  <p class="text">
+    Zaczynasz częściej dopytywać.<br>
+    Sprawdzać szczegóły.<br>
+    Zwracać uwagę na rzeczy,
+    które wcześniej nie miały znaczenia.
+  </p>
+
+  <p class="text">
+    Same w sobie te zachowania nie wyglądają groźnie.
+    Ale z czasem zmieniają atmosferę.
+    Pojawia się napięcie,
+    którego trudno się pozbyć.
+  </p>
+
+  <p class="section">To nie zawsze jest o drugiej osobie</p>
+
+  <p class="text">
+    Łatwo założyć,
+    że źródłem niepokoju jest partner lub partnerka.
+    Jakieś zachowanie.
+    Jakaś zmiana.
+    Jakiś brak.
+  </p>
+
+  <p class="text">
+    Tymczasem bardzo często
+    ten stan ma swoje korzenie gdzie indziej.
+    W lęku.
+    W braku poczucia bezpieczeństwa.
+    W doświadczeniach, które wydarzyły się wcześniej,
+    ale wciąż mają wpływ na to,
+    jak przeżywamy relacje dziś.
+  </p>
+
+  <p class="text">
+    Zazdrość bywa tylko formą,
+    w jakiej ten lęk staje się widoczny.
+    Łatwiejszą do uchwycenia
+    niż samo źródło napięcia.
+  </p>
+
+  <div class="quote">
+    Nie każdy niepokój mówi: „coś jest nie tak z tą relacją”.
+    Czasem mówi: „coś we mnie potrzebuje uwagi”.
+  </div>
+
+  <p class="section">Dlaczego kontrola nie przynosi ulgi</p>
+
+  <p class="text">
+    Kontrola daje chwilowe poczucie wpływu.
+    Na moment uspokaja.
+    Pozwala uwierzyć,
+    że jeśli sprawdzisz wystarczająco dokładnie,
+    napięcie zniknie.
+  </p>
+
+  <p class="text">
+    Problem w tym,
+    że to działa tylko na krótką metę.
+    A potem potrzeba coraz więcej sprawdzania,
+    coraz więcej pytań,
+    coraz więcej upewniania się.
+  </p>
+
+  <p class="text">
+    I coraz mniej przestrzeni na swobodę,
+    zaufanie
+    i prawdziwy kontakt.
+  </p>
+
+  <p class="section">Inny sposób reagowania</p>
+
+  <p class="text">
+    Zamiast iść w stronę kontroli,
+    można spróbować czegoś trudniejszego,
+    ale znacznie bardziej uczciwego.
+  </p>
+
+  <div class="quote">
+    „Czuję niepokój i nie bardzo wiem,
+    skąd on się bierze.”
+  </div>
+
+  <p class="text">
+    To zdanie nie oskarża.
+    Nie domaga się wyjaśnień.
+    Jest zaproszeniem do rozmowy,
+    a nie próbą przejęcia kontroli.
+  </p>
+
+  <p class="section">Ćwiczenia: praca z niepokojem</p>
+
+  <div class="exercise">
+    <p class="exercise-title">Ćwiczenie 1: Zatrzymaj się przy sygnale</p>
+    <p class="text">
+      Kiedy pojawia się napięcie, zadaj sobie pytania:
+    </p>
+    <p class="text">
+      – Co dokładnie teraz czuję?<br>
+      – Gdzie w ciele to odczuwam?<br>
+      – Od kiedy to jest ze mną?
+    </p>
+    <p class="text">
+      Nie próbuj tego zmieniać.
+      Chodzi tylko o zauważenie.
+    </p>
+  </div>
+
+  <div class="exercise">
+    <p class="exercise-title">Ćwiczenie 2: Fakt czy interpretacja</p>
+    <p class="text">
+      Podziel kartkę na dwie części.
+    </p>
+    <p class="text">
+      <span class="strong">Fakty:</span> co naprawdę się wydarzyło?<br>
+      <span class="strong">Interpretacje:</span> co dopowiada mój umysł?
+    </p>
+    <p class="text">
+      To ćwiczenie często pokazuje,
+      jak wiele napięcia rodzi się
+      nie z faktów,
+      ale z naszych wyobrażeń.
+    </p>
+  </div>
+
+  <div class="exercise">
+    <p class="exercise-title">Ćwiczenie 3: Rozmowa bez oskarżeń</p>
+    <p class="text">
+      Spróbuj powiedzieć o swoim stanie,
+      nie wskazując winnego.
+      Skup się na sobie,
+      nie na zachowaniu drugiej osoby.
+    </p>
+  </div>
+
+  <p class="closing">
+    Bezpieczeństwo w relacji<br>
+    nie bierze się z kontroli.<br>
+    Bierze się z rozmowy,<br>
+    obecności<br>
+    i możliwości powiedzenia prawdy bez strachu.
+  </p>
+
+</div>
+9:["$","$L12",null,{"post":{"id":"116540e7-ed7f-4645-a59a-d93abf626ad4","title":"Coś mnie tu niepokoi","slug":"cos-mnie-tu-niepokoi","category":"Relacje i związki","excerpt":"To rzadko zaczyna się od zazdrości.\nCzęściej od niepokoju.\nOd trudnego do nazwania uczucia w brzuchu, które pojawia się bez wyraźnego powodu.\n\nNawet kiedy mówisz sobie: „przecież wszystko jest w porządku”, napięcie gdzieś zostaje. Jakby coś w środku nie dawało się uspokoić logicznymi argumentami.","mainImage":"https://storage.googleapis.com/postyblogmaker.firebasestorage.app/blog-main-images/c2d294ac-29e4-451e-b09d-d7d4160a61f2.jpeg","htmlContent":"$13","published":true,"createdAt":"2026-01-26T20:08:23.000Z","updatedAt":"2026-02-08T18:33:08.000Z"}}]
+c:null
+10:[["$","title","0",{"children":"Coś mnie tu niepokoi | Relapy"}],["$","meta","1",{"name":"description","content":"To rzadko zaczyna się od zazdrości.\nCzęściej od niepokoju.\nOd trudnego do nazwania uczucia w brzuchu, które pojawia się bez wyraźnego powodu.\n\nNawet kiedy mówisz sobie: „przecież wszystko jest w porządku”, napięcie gdzieś zostaje. Jakby coś w środku nie dawało się uspokoić logicznymi argumentami."}],["$","meta","2",{"name":"author","content":"Twoja Marka"}],["$","meta","3",{"name":"keywords","content":"związek,relacje,naprawa związku,rozwój relacji,komunikacja w związku,kryzys w związku,e-book o relacjach,miłość"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://relapy.pl/blog/116540e7-ed7f-4645-a59a-d93abf626ad4"}],["$","meta","7",{"property":"og:title","content":"Coś mnie tu niepokoi"}],["$","meta","8",{"property":"og:description","content":"To rzadko zaczyna się od zazdrości.\nCzęściej od niepokoju.\nOd trudnego do nazwania uczucia w brzuchu, które pojawia się bez wyraźnego powodu.\n\nNawet kiedy mówisz sobie: „przecież wszystko jest w porządku”, napięcie gdzieś zostaje. Jakby coś w środku nie dawało się uspokoić logicznymi argumentami."}],["$","meta","9",{"property":"og:url","content":"https://relapy.pl/blog/116540e7-ed7f-4645-a59a-d93abf626ad4"}],["$","meta","10",{"property":"og:site_name","content":"Relapy"}],["$","meta","11",{"property":"og:locale","content":"pl_PL"}],["$","meta","12",{"property":"og:image","content":"https://storage.googleapis.com/postyblogmaker.firebasestorage.app/blog-main-images/c2d294ac-29e4-451e-b09d-d7d4160a61f2.jpeg"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Coś mnie tu niepokoi"}],["$","meta","18",{"name":"twitter:description","content":"To rzadko zaczyna się od zazdrości.\nCzęściej od niepokoju.\nOd trudnego do nazwania uczucia w brzuchu, które pojawia się bez wyraźnego powodu.\n\nNawet kiedy mówisz sobie: „przecież wszystko jest w porządku”, napięcie gdzieś zostaje. Jakby coś w środku nie dawało się uspokoić logicznymi argumentami."}],["$","meta","19",{"name":"twitter:image","content":"https://storage.googleapis.com/postyblogmaker.firebasestorage.app/blog-main-images/c2d294ac-29e4-451e-b09d-d7d4160a61f2.jpeg"}],["$","link","20",{"rel":"icon","href":"/favicon.ico?favicon.7f636e30.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","21",{"rel":"icon","href":"/favicon.ico"}],["$","link","22",{"rel":"icon","href":"/icon.png","type":"image/png","sizes":"512x512"}],["$","link","23",{"rel":"apple-touch-icon","href":"/apple-icon.png"}],["$","$L14","24",{}]]

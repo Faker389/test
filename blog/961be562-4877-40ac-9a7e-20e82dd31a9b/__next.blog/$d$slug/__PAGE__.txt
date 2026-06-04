@@ -1,0 +1,210 @@
+1:"$Sreact.fragment"
+2:I[65348,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js","/_next/static/chunks/7f89c2349e581c33.js","/_next/static/chunks/00208b78c5e519ea.js","/_next/static/chunks/f7222ff3a176003e.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:T108f,<style>
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+  .post {
+    font-family: 'Open Sans', Arial, sans-serif;
+    color: #f1f1f1;
+    line-height: 1.9;
+    max-width: 760px;
+  }
+
+  .title {
+    font-size: 34px;
+    font-weight: 700;
+    margin-bottom: 22px;
+    color: #ffffff;
+  }
+
+  .lead {
+    font-size: 20px;
+    color: #dedede;
+    margin-bottom: 38px;
+  }
+
+  .section {
+    font-size: 24px;
+    font-weight: 600;
+    margin: 56px 0 22px;
+    color: #ffffff;
+  }
+
+  .text {
+    margin-bottom: 24px;
+    font-size: 17px;
+    font-weight: 300;
+  }
+
+  .quote {
+    background: #f5f5f5;
+    color: #111;
+    border: 2px solid #dddddd;
+    border-radius: 10px;
+    padding: 22px;
+    margin: 42px 0;
+    font-size: 16.5px;
+  }
+
+  .strong {
+    font-weight: 600;
+    color: #ffffff;
+  }
+
+  .closing {
+    font-size: 21px;
+    font-weight: 700;
+    margin: 64px 0;
+    color: #ffffff;
+  }
+</style>
+
+<div class="post">
+
+  <p class="lead">
+    Rozmawiamy codziennie.<br>
+    A coraz częściej wychodzimy z rozmów
+    z poczuciem, że nic z nich nie zostało.
+  </p>
+
+  <p class="text">
+    W pracy, w domu, w relacjach, w internecie -
+    słowa padają, zdania się składają,
+    a mimo to coś się nie spotyka.
+  </p>
+
+  <p class="text">
+    Mówimy i mamy wrażenie,
+    że odbijamy się od ściany.
+    Słyszymy odpowiedzi,
+    ale nie czujemy, że zostaliśmy zrozumiani.
+  </p>
+
+  <p class="section">Słuchamy, żeby odpowiedzieć</p>
+
+  <p class="text">
+    Jednym z najczęstszych powodów jest to,
+    że słuchamy nie po to, żeby zrozumieć,
+    ale po to, żeby odpowiedzieć.
+  </p>
+
+  <p class="text">
+    W głowie już układamy ripostę,
+    zanim druga osoba skończy zdanie.
+    Czekamy na swoją kolej,
+    zamiast sprawdzić,
+    co naprawdę zostało powiedziane.
+  </p>
+
+  <p class="text">
+    Rozmowa wtedy przestaje być spotkaniem.
+    Staje się wymianą monologów.
+  </p>
+
+  <div class="quote">
+    Prawdziwe słuchanie zaczyna się tam,
+    gdzie kończy się potrzeba natychmiastowej odpowiedzi.
+  </div>
+
+  <p class="section">Emocje, których nie nazywamy</p>
+
+  <p class="text">
+    Drugi problem to emocje,
+    które zostają niewypowiedziane.
+    Te trudniejsze.
+    Bardziej wrażliwe.
+  </p>
+
+  <p class="text">
+    Zamiast powiedzieć:
+    „jest mi trudno” albo „czuję się pominięty”,
+    mówimy:
+    „zawsze robisz to samo”
+    albo
+    „nigdy mnie nie słuchasz”.
+  </p>
+
+  <p class="text">
+    Wtedy rozmowa kończy się,
+    zanim na dobre się zacznie.
+    Bo druga strona słyszy zarzut,
+    nie zaproszenie do zrozumienia.
+  </p>
+
+  <p class="section">Filtry, których nie widzimy</p>
+
+  <p class="text">
+    Do rozmów wchodzimy z bagażem,
+    którego zwykle nie zauważamy.
+    Wcześniejsze doświadczenia.
+    Przekonania.
+    Lęki.
+    Oczekiwania.
+  </p>
+
+  <p class="text">
+    Każdy z nas słyszy coś innego,
+    nawet jeśli padają te same słowa.
+    To, co dla jednej osoby jest neutralne,
+    dla drugiej może brzmieć jak atak.
+  </p>
+
+  <div class="quote">
+    Nie reagujemy na słowa takie, jakie są,
+    tylko na to, co one w nas uruchamiają.
+  </div>
+
+  <p class="section">Brak obecności</p>
+
+  <p class="text">
+    Paradoksalnie,
+    w świecie pełnym komunikacji
+    coraz rzadziej jesteśmy naprawdę obecni w rozmowie.
+  </p>
+
+  <p class="text">
+    Brakuje ciszy.
+    Brakuje uważności.
+    Brakuje gotowości, by dopytać:
+    „Czy dobrze cię rozumiem?”
+  </p>
+
+  <p class="text">
+    Bo bycie wysłuchanym
+    rzadko zależy od ilości słów.
+    Częściej od jakości obecności.
+  </p>
+
+  <p class="section">Czym naprawdę jest słuchanie</p>
+
+  <p class="text">
+    Prawdziwe słuchanie
+    nie polega na czekaniu na swoją kolej.
+    Nie polega na przygotowywaniu odpowiedzi.
+  </p>
+
+  <p class="text">
+    Polega na tym,
+    że na chwilę odkładamy siebie na bok.
+    Swoje racje.
+    Swoje interpretacje.
+    Swoją potrzebę bycia „tym, który ma rację”.
+  </p>
+
+  <p class="closing">
+    A może największym problemem nie jest to,
+    że nie umiemy mówić -
+    tylko że zapomnieliśmy,
+    jak słuchać.<br><br>
+    Naprawdę.
+  </p>
+
+</div>
+0:{"buildId":"_C9d6E2uvdhOuAugQe1p9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"id":"961be562-4877-40ac-9a7e-20e82dd31a9b","title":"Dlaczego rozmawiamy, ale się nie słyszymy?","slug":"dlaczego-rozmawiamy-ale-sie-nie-syszymy","category":"Relacje i związki","mainImage":"https://storage.googleapis.com/postyblogmaker.firebasestorage.app/blog-main-images/1af29b92-85e3-4d68-a97b-97b4a722a0f4.jpeg","htmlContent":"$3","published":true,"createdAt":"2026-01-31T18:28:53.000Z","excerpt":"Rozmawiamy codziennie.\nA coraz częściej wychodzimy z rozmów z poczuciem, że nic z nich nie zostało.","updatedAt":"2026-02-08T18:33:08.000Z"}}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/_next/static/chunks/7f89c2349e581c33.js","async":true}]
+5:["$","script","script-1",{"src":"/_next/static/chunks/00208b78c5e519ea.js","async":true}]
+6:["$","script","script-2",{"src":"/_next/static/chunks/f7222ff3a176003e.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

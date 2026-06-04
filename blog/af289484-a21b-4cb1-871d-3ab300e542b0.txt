@@ -1,0 +1,216 @@
+1:"$Sreact.fragment"
+2:I[79520,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js"],""]
+4:I[2355,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js"],"Analytics"]
+5:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+6:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+7:I[36768,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js","/_next/static/chunks/e44b48e32ae42669.js"],"default"]
+8:I[39566,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js"],"default"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
+f:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
+11:I[68027,[],"default"]
+:HL["/_next/static/chunks/5d0a2a34d3157634.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.479bea2b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:["$","img",null,{"height":"1","width":"1","style":{"display":"none"},"src":"https://www.facebook.com/tr?id=1977166209847517&ev=PageView&noscript=1","alt":""}]
+0:{"P":null,"b":"_C9d6E2uvdhOuAugQe1p9","c":["","blog","af289484-a21b-4cb1-871d-3ab300e542b0"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","af289484-a21b-4cb1-871d-3ab300e542b0","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/5d0a2a34d3157634.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/fcba8160327439c9.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/5ab255cd557fbf02.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"pl","children":[["$","head",null,{"children":[["$","meta",null,{"name":"msvalidate.01","content":"AFBF2F4E184A2D36B32969B7874DAB5B"}],["$","meta",null,{"name":"google-site-verification","content":"zYxQ9CrDARbwWtLmhlJkk2M-9zFIvevWkCqnPgV0zuI"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{"id":"facebook-pixel","strategy":"lazyOnload","children":"\n            !function(f,b,e,v,n,t,s)\n            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n            n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n            n.queue=[];t=b.createElement(e);t.async=!0;\n            t.src=v;s=b.getElementsByTagName(e)[0];\n            s.parentNode.insertBefore(t,s)}(window, document,'script',\n            '/scripts/fbevents.js');\n            fbq('init', '1977166209847517');\n            fbq('track', 'PageView');\n          "}],["$","noscript",null,{"children":"$3"}],["$","$L4",null,{}],["$","div",null,{"className":"gradient-bg relative min-h-screen overflow-hidden","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L9",[["$","script","script-0",{"src":"/_next/static/chunks/7f89c2349e581c33.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/00208b78c5e519ea.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/f7222ff3a176003e.js","async":true,"nonce":"$undefined"}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$b",null,{"name":"Next.Metadata","children":"$L10"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$11",[]],"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+13:I[65348,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js","/_next/static/chunks/7f89c2349e581c33.js","/_next/static/chunks/00208b78c5e519ea.js","/_next/static/chunks/f7222ff3a176003e.js"],"default"]
+c:null
+10:[["$","title","0",{"children":"„Wszystko jest okej” | Relapy"}],["$","meta","1",{"name":"description","content":"To jedno z tych zdań, które brzmią uspokajająco.\nA czasem znaczą dokładnie odwrotnie.\n\nMówisz „wszystko jest okej”, bo nie masz siły tłumaczyć. Bo nie chcesz zaczynać rozmowy, na którą nie wiesz, jak się skończy.\n\nPrzez chwilę rzeczywiście bywa spokojniej. Ciszej. Bez napięcia na powierzchni."}],["$","meta","2",{"name":"author","content":"Twoja Marka"}],["$","meta","3",{"name":"keywords","content":"związek,relacje,naprawa związku,rozwój relacji,komunikacja w związku,kryzys w związku,e-book o relacjach,miłość"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://relapy.pl/blog/af289484-a21b-4cb1-871d-3ab300e542b0"}],["$","meta","7",{"property":"og:title","content":"„Wszystko jest okej”"}],["$","meta","8",{"property":"og:description","content":"To jedno z tych zdań, które brzmią uspokajająco.\nA czasem znaczą dokładnie odwrotnie.\n\nMówisz „wszystko jest okej”, bo nie masz siły tłumaczyć. Bo nie chcesz zaczynać rozmowy, na którą nie wiesz, jak się skończy.\n\nPrzez chwilę rzeczywiście bywa spokojniej. Ciszej. Bez napięcia na powierzchni."}],["$","meta","9",{"property":"og:url","content":"https://relapy.pl/blog/af289484-a21b-4cb1-871d-3ab300e542b0"}],["$","meta","10",{"property":"og:site_name","content":"Relapy"}],["$","meta","11",{"property":"og:locale","content":"pl_PL"}],["$","meta","12",{"property":"og:image","content":"https://storage.googleapis.com/postyblogmaker.firebasestorage.app/blog-main-images/29408c32-8582-4af2-b0d0-75947011f618.jpeg"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"„Wszystko jest okej”"}],["$","meta","18",{"name":"twitter:description","content":"To jedno z tych zdań, które brzmią uspokajająco.\nA czasem znaczą dokładnie odwrotnie.\n\nMówisz „wszystko jest okej”, bo nie masz siły tłumaczyć. Bo nie chcesz zaczynać rozmowy, na którą nie wiesz, jak się skończy.\n\nPrzez chwilę rzeczywiście bywa spokojniej. Ciszej. Bez napięcia na powierzchni."}],["$","meta","19",{"name":"twitter:image","content":"https://storage.googleapis.com/postyblogmaker.firebasestorage.app/blog-main-images/29408c32-8582-4af2-b0d0-75947011f618.jpeg"}],["$","link","20",{"rel":"icon","href":"/favicon.ico?favicon.7f636e30.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","21",{"rel":"icon","href":"/favicon.ico"}],["$","link","22",{"rel":"icon","href":"/icon.png","type":"image/png","sizes":"512x512"}],["$","link","23",{"rel":"apple-touch-icon","href":"/apple-icon.png"}],["$","$L12","24",{}]]
+14:T10d2,<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+.post {
+  font-family: 'Inter', sans-serif;
+  max-width: 720px;
+  margin: 40px auto;
+  color: #111;
+  line-height: 1.85;
+}
+
+/* nagłówki */
+
+.section {
+  font-size: 26px;
+  font-weight: 600;
+  margin: 48px 0 18px;
+}
+
+/* tekst */
+
+.text {
+  font-size: 18px;
+  margin-bottom: 18px;
+  color: #222;
+}
+
+/* cytaty */
+
+.quote {
+  background: #f6f7f9;
+  border-left: 5px solid #111;
+  padding: 20px 24px;
+  margin: 32px 0;
+  border-radius: 8px;
+  font-size: 17px;
+}
+
+/* ćwiczenia */
+
+.exercise {
+  background: #fafafa;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  padding: 22px;
+  margin: 26px 0;
+}
+
+.exercise-title {
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+/* zakończenie */
+
+.closing {
+  margin-top: 42px;
+  font-size: 19px;
+  font-weight: 500;
+}
+</style>
+
+<div class="post">
+
+<p class="text">
+To jedno z tych zdań, które brzmią uspokajająco.<br>
+A czasem znaczą dokładnie odwrotnie.
+</p>
+
+<p class="text">
+Mówisz „wszystko jest okej”, bo nie masz siły tłumaczyć.  
+Bo nie chcesz zaczynać rozmowy, na którą nie wiesz, jak się skończy.
+</p>
+
+<p class="text">
+Przez chwilę rzeczywiście bywa spokojniej.  
+Ciszej. Bez napięcia na powierzchni.
+</p>
+
+<div class="section">Co zostaje niewypowiedziane</div>
+
+<p class="text">
+Emocje zostają w środku.  
+Tematy - niedotknięte.  
+Napięcie przykrywa codzienność.
+</p>
+
+<p class="text">
+Z zewnątrz: cisza.<br>
+W środku: dystans.
+</p>
+
+<div class="quote">
+Cisza w relacji nie zawsze oznacza spokój.  
+Czasem oznacza tylko to, że nikt nie mówi tego, co ważne.
+</div>
+
+<div class="section">Dlaczego tak robimy</div>
+
+<p class="text">
+Często wycofujemy się nie dlatego, że nam nie zależy.  
+Tylko dlatego, że zależy nam za bardzo.
+</p>
+
+<p class="text">
+Boimy się, że rozmowa coś popsuje.  
+Że emocje wymkną się spod kontroli.  
+Że powiemy za dużo.
+</p>
+
+<p class="text">
+„Wszystko jest okej” staje się wtedy bezpiecznym „nie teraz”.
+</p>
+
+<div class="section">Jedno zdanie, które zmienia kierunek</div>
+
+<div class="quote">
+„Nie czuję się z tym okej.  
+Pogadajmy, żeby się zrozumieć.”
+</div>
+
+<p class="text">
+To zdanie nie rozwiązuje wszystkiego.  
+Ale otwiera drzwi — zamiast je po cichu zamykać.
+</p>
+
+<div class="section">Ćwiczenia i pytania do autorefleksji</div>
+
+<div class="exercise">
+<div class="exercise-title">Ćwiczenie 1 - Co naprawdę znaczy „okej”</div>
+Przypomnij sobie ostatnią sytuację, gdy powiedziałeś/powiedziałaś „wszystko jest okej”.<br><br>
+– Co wtedy czułem/czułam?<br>
+– Czego się bałem/bałam?<br>
+– Co chciałem/chciałam w ten sposób ochronić?
+</div>
+
+<div class="exercise">
+<div class="exercise-title">Ćwiczenie 2 - Jedno zdanie prawdy</div>
+Spróbuj zamienić „wszystko jest okej” na zdanie opisujące Twój stan bez oskarżeń.<br><br>
+Np. „Nie jest mi teraz łatwo o tym mówić, ale to dla mnie ważne.”
+</div>
+
+<div class="section">Jak mówić o trudnych emocjach bez eskalacji</div>
+
+<p class="text">
+Wielu z nas nie boi się samych emocji.  
+Boimy się tego, co może się wydarzyć, gdy zaczniemy o nich mówić.
+</p>
+
+<p class="text">
+Że rozmowa zamieni się w konflikt.  
+Że ktoś poczuje się zaatakowany.  
+Że nie będzie już odwrotu.
+</p>
+
+<div class="section">Dlaczego rozmowy się zaostrzają</div>
+
+<p class="text">
+Często zaczynamy od ocen: „zawsze”, „nigdy”, „bo ty”.
+</p>
+
+<p class="text">
+Druga osoba słyszy zarzut, nawet jeśli chcieliśmy tylko opowiedzieć o swoim stanie.
+</p>
+
+<div class="quote">
+Emocje eskalują nie dlatego, że są trudne - 
+ale dlatego, że czujemy się w nich niezrozumiani.
+</div>
+
+<div class="section">Trzy zasady, które zmieniają rozmowę</div>
+
+<p class="text">
+1. <strong>Mów o sobie, nie o winie.</strong><br>
+„Czuję się…” zamiast „Ty zawsze…”
+</p>
+
+<p class="text">
+2. <strong>Zadbaj o tempo.</strong><br>
+Trudna rozmowa nie musi wydarzyć się natychmiast.
+</p>
+
+<p class="text">
+3. <strong>Szukaj zrozumienia, nie racji.</strong><br>
+Wygrana rozmowa rzadko buduje bliskość.
+</p>
+
+<p class="closing">
+Bliskość nie znika, gdy pojawiają się trudne emocje.<br>
+Znika wtedy, gdy przestajemy o nich mówić.
+</p>
+
+</div>
+9:["$","$L13",null,{"post":{"id":"af289484-a21b-4cb1-871d-3ab300e542b0","title":"„Wszystko jest okej”","slug":"wszystko-jest-okej","category":"Relacje i związki","excerpt":"To jedno z tych zdań, które brzmią uspokajająco.\nA czasem znaczą dokładnie odwrotnie.\n\nMówisz „wszystko jest okej”, bo nie masz siły tłumaczyć. Bo nie chcesz zaczynać rozmowy, na którą nie wiesz, jak się skończy.\n\nPrzez chwilę rzeczywiście bywa spokojniej. Ciszej. Bez napięcia na powierzchni.","mainImage":"https://storage.googleapis.com/postyblogmaker.firebasestorage.app/blog-main-images/29408c32-8582-4af2-b0d0-75947011f618.jpeg","published":true,"createdAt":"2026-01-28T15:12:12.000Z","htmlContent":"$14","updatedAt":"2026-02-08T19:16:06.000Z"}}]

@@ -1,0 +1,199 @@
+1:"$Sreact.fragment"
+2:I[79520,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js"],""]
+4:I[2355,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js"],"Analytics"]
+5:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+6:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+7:I[36768,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js","/_next/static/chunks/e44b48e32ae42669.js"],"default"]
+8:I[39566,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js"],"default"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
+f:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
+11:I[68027,[],"default"]
+:HL["/_next/static/chunks/5d0a2a34d3157634.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.479bea2b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:["$","img",null,{"height":"1","width":"1","style":{"display":"none"},"src":"https://www.facebook.com/tr?id=1977166209847517&ev=PageView&noscript=1","alt":""}]
+0:{"P":null,"b":"_C9d6E2uvdhOuAugQe1p9","c":["","blog","904a0a3b-f26d-4826-b1a7-68f4a07ca0ab"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","904a0a3b-f26d-4826-b1a7-68f4a07ca0ab","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/5d0a2a34d3157634.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/fcba8160327439c9.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/5ab255cd557fbf02.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"pl","children":[["$","head",null,{"children":[["$","meta",null,{"name":"msvalidate.01","content":"AFBF2F4E184A2D36B32969B7874DAB5B"}],["$","meta",null,{"name":"google-site-verification","content":"zYxQ9CrDARbwWtLmhlJkk2M-9zFIvevWkCqnPgV0zuI"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{"id":"facebook-pixel","strategy":"lazyOnload","children":"\n            !function(f,b,e,v,n,t,s)\n            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n            n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n            n.queue=[];t=b.createElement(e);t.async=!0;\n            t.src=v;s=b.getElementsByTagName(e)[0];\n            s.parentNode.insertBefore(t,s)}(window, document,'script',\n            '/scripts/fbevents.js');\n            fbq('init', '1977166209847517');\n            fbq('track', 'PageView');\n          "}],["$","noscript",null,{"children":"$3"}],["$","$L4",null,{}],["$","div",null,{"className":"gradient-bg relative min-h-screen overflow-hidden","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L9",[["$","script","script-0",{"src":"/_next/static/chunks/7f89c2349e581c33.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/00208b78c5e519ea.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/f7222ff3a176003e.js","async":true,"nonce":"$undefined"}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$b",null,{"name":"Next.Metadata","children":"$L10"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$11",[]],"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[65348,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js","/_next/static/chunks/7f89c2349e581c33.js","/_next/static/chunks/00208b78c5e519ea.js","/_next/static/chunks/f7222ff3a176003e.js"],"default"]
+13:T1027,<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+.post {
+  font-family: 'Inter', sans-serif;
+  max-width: 720px;
+  margin: 40px auto;
+  color: #111;
+  line-height: 1.85;
+}
+
+.section {
+  font-size: 26px;
+  font-weight: 600;
+  margin: 48px 0 18px;
+}
+
+.text {
+  font-size: 18px;
+  margin-bottom: 18px;
+  color: #222;
+}
+
+.quote {
+  background: #f6f7f9;
+  border-left: 5px solid #111;
+  padding: 20px 24px;
+  margin: 32px 0;
+  border-radius: 8px;
+  font-size: 17px;
+}
+
+.exercise {
+  background: #fafafa;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  padding: 22px;
+  margin: 26px 0;
+}
+
+.exercise-title {
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.closing {
+  margin-top: 42px;
+  font-size: 19px;
+  font-weight: 500;
+}
+</style>
+
+<div class="post">
+
+<p class="text">
+Zmęczenie rzadko wchodzi do relacji z hukiem.  
+Nie robi scen. Nie ogłasza się dramatycznie.
+</p>
+
+<p class="text">
+Ono po prostu - powoli zabiera nam dostęp do siebie.  
+Do cierpliwości.  
+Do ciekawości drugiej osoby.  
+Do chęci rozmowy.
+</p>
+
+<p class="text">
+I nagle reagujemy ostrzej, niż chcemy. Krócej niż zwykle.  
+Szybciej się irytujemy. Odcinamy rozmowę, zanim na dobre się zacznie - nie dlatego, że ktoś zrobił coś wielkiego. Po prostu nie mamy już zasobów.
+</p>
+
+<div class="section">Zmęczenie jako filtr</div>
+
+<p class="text">
+Zmęczenie działa jak filtr. To, co normalnie byłoby drobnostką, zaczyna brzmieć jak atak.  
+Prośba staje się wymaganiem. Rozmowa - kolejnym obowiązkiem.
+</p>
+
+<p class="text">
+I wtedy łatwo o błędne wnioski:
+</p>
+
+<div class="quote">
+„On/ona mnie denerwuje.”<br>
+„Ta relacja jest męcząca.”<br>
+„Nie chce mi się już gadać.”
+</div>
+
+<p class="text">
+Czasem to nie relacja jest problemem.  
+Czasem to niewypowiedziane zmęczenie zaczyna mówić za nas.
+</p>
+
+<div class="section">Cichy mechanizm nieporozumień</div>
+
+<p class="text">
+Zmęczenie rzadko wygląda spektakularnie.  
+Częściej objawia się jako dystans, rozdrażnienie, wycofanie.
+</p>
+
+<p class="text">
+Druga osoba widzi chłód - nie widzi przeciążenia.
+</p>
+
+<div class="quote">
+- jedna strona reaguje krócej<br>
+- druga czuje się odrzucona<br>
+- napięcie rośnie<br>
+- rozmów jest coraz mniej
+</div>
+
+<p class="text">
+A wszystko zaczęło się od zwykłego braku energii.
+</p>
+
+<div class="section">Nazwanie zmęczenia zmienia dynamikę</div>
+
+<p class="text">
+Zmęczenie nie jest słabością relacji.  
+Problem zaczyna się wtedy, gdy udajemy, że go nie ma.
+</p>
+
+<div class="quote">
+„Jestem dziś bardzo zmęczony/a - to nie o ciebie chodzi.”
+</div>
+
+<p class="text">
+Jedno takie zdanie potrafi zatrzymać lawinę domysłów.
+</p>
+
+<p class="text">
+Relacje nie potrzebują naszej perfekcyjnej dostępności.  
+Potrzebują szczerości co do tego, ile naprawdę mamy dziś w sobie miejsca.
+</p>
+
+<div class="section">Małe ćwiczenia - jak nie pozwolić zmęczeniu sabotować relacji</div>
+
+<div class="exercise">
+<div class="exercise-title">1. Nazwij stan, zanim nazwiesz problem</div>
+Zatrzymaj się i zapytaj:  
+„Czy jestem zmęczony/a - czy naprawdę zły/a?”
+</div>
+
+<div class="exercise">
+<div class="exercise-title">2. Uprzedź zamiast reagować</div>
+Powiedz wcześniej:  
+„Mam dziś mało energii - to nie przeciwko tobie.”
+</div>
+
+<div class="exercise">
+<div class="exercise-title">3. Mikro-pauza</div>
+Czujesz narastającą irytację?  
+„Daj mi chwilę - potrzebuję oddechu.”
+</div>
+
+<div class="exercise">
+<div class="exercise-title">4. Oddziel relację od stanu</div>
+Zamiast: „Ta rozmowa mnie męczy”  
+→ „Jestem zmęczony/a - rozmowa to pokazuje.”
+</div>
+
+<div class="exercise">
+<div class="exercise-title">5. Sprawdź zasoby</div>
+„Czy mam teraz energię na tę rozmowę?”  
+Jeśli nie - zaproponuj inny moment.
+</div>
+
+<p class="closing">
+Zmęczenie nie niszczy relacji.  
+Ale nieuświadomione - potrafi je po cichu nadwyrężać.<br><br>
+
+Czasem największym aktem troski wobec relacji jest powiedzenie:<br>
+„Dziś mam mniej siebie - ale to nie znaczy, że mniej mi zależy.”
+</p>
+
+</div>
+9:["$","$L12",null,{"post":{"id":"904a0a3b-f26d-4826-b1a7-68f4a07ca0ab","category":"Relacje i związki","published":true,"createdAt":"2026-02-09T16:27:18.000Z","mainImage":"https://firebasestorage.googleapis.com/v0/b/postyblogmaker.firebasestorage.app/o/blog-main-images%2F1770654535284-21.jpg?alt=media&token=5fd34d28-a7a0-4815-808d-c677a2b02760","excerpt":"Zmęczenie rzadko wchodzi do relacji z hukiem. Nie robi scen. Nie ogłasza się dramatycznie.\n\nOno po prostu - powoli zabiera nam dostęp do siebie. Do cierpliwości. Do ciekawości drugiej osoby. Do chęci rozmowy.","title":"Zmęczenie jako cichy sabotaż relacji","slug":"zmeczenie-jako-cichy-sabotaz-relacji","htmlContent":"$13","updatedAt":"2026-02-09T16:30:16.000Z"}}]
+14:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+c:null
+10:[["$","title","0",{"children":"Zmęczenie jako cichy sabotaż relacji | Relapy"}],["$","meta","1",{"name":"description","content":"Zmęczenie rzadko wchodzi do relacji z hukiem. Nie robi scen. Nie ogłasza się dramatycznie.\n\nOno po prostu - powoli zabiera nam dostęp do siebie. Do cierpliwości. Do ciekawości drugiej osoby. Do chęci rozmowy."}],["$","meta","2",{"name":"author","content":"Twoja Marka"}],["$","meta","3",{"name":"keywords","content":"związek,relacje,naprawa związku,rozwój relacji,komunikacja w związku,kryzys w związku,e-book o relacjach,miłość"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://relapy.pl/blog/904a0a3b-f26d-4826-b1a7-68f4a07ca0ab"}],["$","meta","7",{"property":"og:title","content":"Zmęczenie jako cichy sabotaż relacji"}],["$","meta","8",{"property":"og:description","content":"Zmęczenie rzadko wchodzi do relacji z hukiem. Nie robi scen. Nie ogłasza się dramatycznie.\n\nOno po prostu - powoli zabiera nam dostęp do siebie. Do cierpliwości. Do ciekawości drugiej osoby. Do chęci rozmowy."}],["$","meta","9",{"property":"og:url","content":"https://relapy.pl/blog/904a0a3b-f26d-4826-b1a7-68f4a07ca0ab"}],["$","meta","10",{"property":"og:site_name","content":"Relapy"}],["$","meta","11",{"property":"og:locale","content":"pl_PL"}],["$","meta","12",{"property":"og:image","content":"https://firebasestorage.googleapis.com/v0/b/postyblogmaker.firebasestorage.app/o/blog-main-images%2F1770654535284-21.jpg?alt=media&token=5fd34d28-a7a0-4815-808d-c677a2b02760"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Zmęczenie jako cichy sabotaż relacji"}],["$","meta","18",{"name":"twitter:description","content":"Zmęczenie rzadko wchodzi do relacji z hukiem. Nie robi scen. Nie ogłasza się dramatycznie.\n\nOno po prostu - powoli zabiera nam dostęp do siebie. Do cierpliwości. Do ciekawości drugiej osoby. Do chęci rozmowy."}],["$","meta","19",{"name":"twitter:image","content":"https://firebasestorage.googleapis.com/v0/b/postyblogmaker.firebasestorage.app/o/blog-main-images%2F1770654535284-21.jpg?alt=media&token=5fd34d28-a7a0-4815-808d-c677a2b02760"}],["$","link","20",{"rel":"icon","href":"/favicon.ico?favicon.7f636e30.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","21",{"rel":"icon","href":"/favicon.ico"}],["$","link","22",{"rel":"icon","href":"/icon.png","type":"image/png","sizes":"512x512"}],["$","link","23",{"rel":"apple-touch-icon","href":"/apple-icon.png"}],["$","$L14","24",{}]]

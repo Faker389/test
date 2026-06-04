@@ -1,0 +1,261 @@
+1:"$Sreact.fragment"
+2:I[65348,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js","/_next/static/chunks/7f89c2349e581c33.js","/_next/static/chunks/00208b78c5e519ea.js","/_next/static/chunks/f7222ff3a176003e.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:T1752,<style>
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+  .post {
+    font-family: 'Open Sans', Arial, sans-serif;
+    color: #f1f1f1;
+    line-height: 1.9;
+    max-width: 760px;
+  }
+
+  .title {
+    font-size: 34px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #ffffff;
+  }
+
+  .lead {
+    font-size: 20px;
+    color: #dedede;
+    margin-bottom: 38px;
+  }
+
+  .section {
+    font-size: 24px;
+    font-weight: 600;
+    margin: 50px 0 20px;
+    color: #ffffff;
+  }
+
+  .text {
+    margin-bottom: 24px;
+    font-size: 17px;
+    font-weight: 300;
+  }
+
+  .quote {
+    background: #f5f5f5;
+    color: #111;
+    border: 2px solid #dddddd;
+    border-radius: 10px;
+    padding: 22px;
+    margin: 42px 0;
+    font-size: 16.5px;
+  }
+
+  .exercise {
+    background: rgba(255,255,255,0.06);
+    border-left: 4px solid #aaa;
+    padding: 24px;
+    margin: 42px 0;
+  }
+
+  .exercise-title {
+    font-weight: 600;
+    margin-bottom: 14px;
+    color: #ffffff;
+  }
+
+  .strong {
+    font-weight: 600;
+    color: #ffffff;
+  }
+
+  .closing {
+    font-size: 21px;
+    font-weight: 700;
+    margin-top: 56px;
+    color: #ffffff;
+  }
+</style>
+
+<div class="post">
+
+  <p class="lead">
+    To rzadko zaczyna się od zazdrości.<br>
+    Częściej od niepokoju.<br>
+    Od trudnego do nazwania uczucia w brzuchu,
+    które pojawia się bez wyraźnego powodu.
+  </p>
+
+  <p class="text">
+    Nawet kiedy mówisz sobie:
+    „przecież wszystko jest w porządku”,
+    napięcie gdzieś zostaje.
+    Jakby coś w środku nie dawało się uspokoić
+    logicznymi argumentami.
+  </p>
+
+  <p class="text">
+    Ten niepokój bywa cichy.
+    Nie robi scen.
+    Nie domaga się natychmiastowej reakcji.
+    Ale jest wytrwały.
+    Wraca w najmniej oczekiwanych momentach.
+  </p>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/ebok-80476.firebasestorage.app/o/blog-inline-images%2F1769458043964-15.jpg?alt=media&token=b095a94c-0f19-4ea3-8b53-828f220b8ace" alt="" class="w-full rounded-xl my-6" />
+
+  <p class="section">Jak to zaczyna wyglądać w praktyce</p>
+
+  <p class="text">
+    Na zewnątrz wszystko wydaje się niewinne.
+    Bez dramatów.
+    Bez jednoznacznych sygnałów ostrzegawczych.
+  </p>
+
+  <p class="text">
+    Zaczynasz częściej dopytywać.<br>
+    Sprawdzać szczegóły.<br>
+    Zwracać uwagę na rzeczy,
+    które wcześniej nie miały znaczenia.
+  </p>
+
+  <p class="text">
+    Same w sobie te zachowania nie wyglądają groźnie.
+    Ale z czasem zmieniają atmosferę.
+    Pojawia się napięcie,
+    którego trudno się pozbyć.
+  </p>
+
+  <p class="section">To nie zawsze jest o drugiej osobie</p>
+
+  <p class="text">
+    Łatwo założyć,
+    że źródłem niepokoju jest partner lub partnerka.
+    Jakieś zachowanie.
+    Jakaś zmiana.
+    Jakiś brak.
+  </p>
+
+  <p class="text">
+    Tymczasem bardzo często
+    ten stan ma swoje korzenie gdzie indziej.
+    W lęku.
+    W braku poczucia bezpieczeństwa.
+    W doświadczeniach, które wydarzyły się wcześniej,
+    ale wciąż mają wpływ na to,
+    jak przeżywamy relacje dziś.
+  </p>
+
+  <p class="text">
+    Zazdrość bywa tylko formą,
+    w jakiej ten lęk staje się widoczny.
+    Łatwiejszą do uchwycenia
+    niż samo źródło napięcia.
+  </p>
+
+  <div class="quote">
+    Nie każdy niepokój mówi: „coś jest nie tak z tą relacją”.
+    Czasem mówi: „coś we mnie potrzebuje uwagi”.
+  </div>
+
+  <p class="section">Dlaczego kontrola nie przynosi ulgi</p>
+
+  <p class="text">
+    Kontrola daje chwilowe poczucie wpływu.
+    Na moment uspokaja.
+    Pozwala uwierzyć,
+    że jeśli sprawdzisz wystarczająco dokładnie,
+    napięcie zniknie.
+  </p>
+
+  <p class="text">
+    Problem w tym,
+    że to działa tylko na krótką metę.
+    A potem potrzeba coraz więcej sprawdzania,
+    coraz więcej pytań,
+    coraz więcej upewniania się.
+  </p>
+
+  <p class="text">
+    I coraz mniej przestrzeni na swobodę,
+    zaufanie
+    i prawdziwy kontakt.
+  </p>
+
+  <p class="section">Inny sposób reagowania</p>
+
+  <p class="text">
+    Zamiast iść w stronę kontroli,
+    można spróbować czegoś trudniejszego,
+    ale znacznie bardziej uczciwego.
+  </p>
+
+  <div class="quote">
+    „Czuję niepokój i nie bardzo wiem,
+    skąd on się bierze.”
+  </div>
+
+  <p class="text">
+    To zdanie nie oskarża.
+    Nie domaga się wyjaśnień.
+    Jest zaproszeniem do rozmowy,
+    a nie próbą przejęcia kontroli.
+  </p>
+
+  <p class="section">Ćwiczenia: praca z niepokojem</p>
+
+  <div class="exercise">
+    <p class="exercise-title">Ćwiczenie 1: Zatrzymaj się przy sygnale</p>
+    <p class="text">
+      Kiedy pojawia się napięcie, zadaj sobie pytania:
+    </p>
+    <p class="text">
+      – Co dokładnie teraz czuję?<br>
+      – Gdzie w ciele to odczuwam?<br>
+      – Od kiedy to jest ze mną?
+    </p>
+    <p class="text">
+      Nie próbuj tego zmieniać.
+      Chodzi tylko o zauważenie.
+    </p>
+  </div>
+
+  <div class="exercise">
+    <p class="exercise-title">Ćwiczenie 2: Fakt czy interpretacja</p>
+    <p class="text">
+      Podziel kartkę na dwie części.
+    </p>
+    <p class="text">
+      <span class="strong">Fakty:</span> co naprawdę się wydarzyło?<br>
+      <span class="strong">Interpretacje:</span> co dopowiada mój umysł?
+    </p>
+    <p class="text">
+      To ćwiczenie często pokazuje,
+      jak wiele napięcia rodzi się
+      nie z faktów,
+      ale z naszych wyobrażeń.
+    </p>
+  </div>
+
+  <div class="exercise">
+    <p class="exercise-title">Ćwiczenie 3: Rozmowa bez oskarżeń</p>
+    <p class="text">
+      Spróbuj powiedzieć o swoim stanie,
+      nie wskazując winnego.
+      Skup się na sobie,
+      nie na zachowaniu drugiej osoby.
+    </p>
+  </div>
+
+  <p class="closing">
+    Bezpieczeństwo w relacji<br>
+    nie bierze się z kontroli.<br>
+    Bierze się z rozmowy,<br>
+    obecności<br>
+    i możliwości powiedzenia prawdy bez strachu.
+  </p>
+
+</div>
+0:{"buildId":"_C9d6E2uvdhOuAugQe1p9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"id":"116540e7-ed7f-4645-a59a-d93abf626ad4","title":"Coś mnie tu niepokoi","slug":"cos-mnie-tu-niepokoi","category":"Relacje i związki","excerpt":"To rzadko zaczyna się od zazdrości.\nCzęściej od niepokoju.\nOd trudnego do nazwania uczucia w brzuchu, które pojawia się bez wyraźnego powodu.\n\nNawet kiedy mówisz sobie: „przecież wszystko jest w porządku”, napięcie gdzieś zostaje. Jakby coś w środku nie dawało się uspokoić logicznymi argumentami.","mainImage":"https://storage.googleapis.com/postyblogmaker.firebasestorage.app/blog-main-images/c2d294ac-29e4-451e-b09d-d7d4160a61f2.jpeg","htmlContent":"$3","published":true,"createdAt":"2026-01-26T20:08:23.000Z","updatedAt":"2026-02-08T18:33:08.000Z"}}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/_next/static/chunks/7f89c2349e581c33.js","async":true}]
+5:["$","script","script-1",{"src":"/_next/static/chunks/00208b78c5e519ea.js","async":true}]
+6:["$","script","script-2",{"src":"/_next/static/chunks/f7222ff3a176003e.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

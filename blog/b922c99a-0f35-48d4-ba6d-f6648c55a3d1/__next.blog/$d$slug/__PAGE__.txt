@@ -1,0 +1,203 @@
+1:"$Sreact.fragment"
+2:I[65348,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js","/_next/static/chunks/7f89c2349e581c33.js","/_next/static/chunks/00208b78c5e519ea.js","/_next/static/chunks/f7222ff3a176003e.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:T1258,<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+.post {
+  font-family: 'Inter', sans-serif;
+  max-width: 760px;
+  margin: 50px auto;
+  color: #111;
+  line-height: 1.9;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+.subtitle {
+  font-size: 18px;
+  font-weight: 500;
+  color: #555;
+  margin-bottom: 40px;
+}
+
+.section {
+  font-size: 26px;
+  font-weight: 600;
+  margin: 56px 0 20px;
+}
+
+.text {
+  font-size: 18px;
+  margin-bottom: 18px;
+  color: #222;
+}
+
+.quote {
+  background: #f6f7f9;
+  border-left: 5px solid #111;
+  padding: 22px 26px;
+  margin: 36px 0;
+  border-radius: 10px;
+  font-size: 18px;
+}
+
+.stage {
+  background: #fafafa;
+  border: 1px solid #e8e8e8;
+  border-radius: 14px;
+  padding: 24px;
+  margin: 28px 0;
+}
+
+.stage-title {
+  font-weight: 600;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.closing {
+  margin-top: 50px;
+  font-size: 20px;
+  font-weight: 500;
+}
+</style>
+
+<div class="post">
+<div class="subtitle">Śmiertelna pułapka „świętego spokoju”</div>
+
+<p class="text">
+Większość z nas wyobraża sobie koniec relacji jako coś głośnego. Awantury, trzaskanie drzwiami, wielkie słowa.
+</p>
+
+<p class="text">
+Tymczasem najgroźniejszy zabójca bliskości działa po cichu.  
+Nie podnosi głosu. Nie robi scen.  
+On powoli odbiera relacji tlen.
+</p>
+
+<div class="quote">
+Miłość rzadko kończy się wybuchem.  
+Częściej gaśnie z braku powietrza.
+</div>
+
+<p class="text">
+I któregoś dnia budzisz się obok kogoś, kogo już prawie nie znasz.
+</p>
+
+<p class="text">
+Tym cichym sabotażystą jest brak granic.
+</p>
+
+<div class="section">Mit „poświęcenia” i „dopasowania”</div>
+
+<p class="text">
+Wiele osób wierzy, że dobra relacja oznacza bezwarunkowe dopasowanie.  
+„Nie będę robić problemu.”  
+„Dla świętego spokoju odpuszczę.”
+</p>
+
+<p class="text">
+Tylko że granica to nie mur.  
+To informacja.
+</p>
+
+<div class="quote">
+„Tu jestem ja.”<br>
+„To jest dla mnie ważne.”<br>
+„Tego nie chcę.”
+</div>
+
+<p class="text">
+Bez granic nie ma dwóch osób w relacji.  
+Jest jedna silniejsza i druga, która powoli zaczyna znikać.
+</p>
+
+<div class="section">Jak wygląda cichy rozpad? Trzy etapy</div>
+
+<div class="stage">
+<div class="stage-title">1. Erozyjna uległość</div>
+Zaczyna się niewinnie.  
+Zgadzasz się na rzeczy, które Ci nie służą. Milczysz, kiedy coś Cię rani.  
+Każde takie „to nic” odkłada się w Tobie jak mały kamień.
+</div>
+
+<div class="stage">
+<div class="stage-title">2. Narastająca frustracja</div>
+Niewypowiedziane potrzeby nie znikają. Zmieniają formę.  
+Pojawia się sarkazm, dystans, ciche dni.  
+Nie mówisz wprost, że coś boli. Zaczynasz karać wycofaniem.
+</div>
+
+<div class="stage">
+<div class="stage-title">3. Emocjonalne odcięcie</div>
+Już się nie kłócisz. Nie walczysz. Nie tłumaczysz.  
+Bo przestaje Ci zależeć.  
+Z partnerów stajecie się współlokatorami.
+</div>
+
+<div class="section">Dlaczego granice są aktem miłości?</div>
+
+<p class="text">
+To może brzmieć paradoksalnie, ale jasna granica to jedna z najbardziej dojrzałych form troski o relację.
+</p>
+
+<div class="quote">
+Granica to instrukcja obsługi Twojego serca.
+</div>
+
+<p class="text">
+Granice budują szacunek. Ludzie uczą się, jak nas traktować, na podstawie tego, na co pozwalamy.
+</p>
+
+<p class="text">
+Chronią energię. Jeśli ciągle się naginasz, w końcu nie masz z czego dawać.
+</p>
+
+<p class="text">
+Tworzą autentyczność. Prawdziwa bliskość istnieje tylko między dwiema osobami, które są sobą.
+</p>
+
+<div class="section">Jak zacząć stawiać granice bez demolowania relacji?</div>
+
+<div class="stage">
+<div class="stage-title">1. Zauważ moment dyskomfortu</div>
+Granice najpierw czujesz w ciele. Napięcie, ucisk, wycofanie.  
+To sygnał, że coś zostało przekroczone.
+</div>
+
+<div class="stage">
+<div class="stage-title">2. Używaj komunikatu „ja”</div>
+Zamiast oskarżenia. Informacja o swoim doświadczeniu.  
+„Czuję się nieważna, kiedy mi przerywasz.”
+</div>
+
+<div class="stage">
+<div class="stage-title">3. Bądź konsekwentny</div>
+Granica bez konsekwencji staje się sugestią.  
+Chronisz siebie. Nie karzesz drugiej osoby.
+</div>
+
+<div class="closing">
+Relacje nie rozpadają się dlatego, że ludzie są zbyt wymagający.  
+Rozpadają się dlatego, że zbyt długo byli zbyt cisi.<br><br>
+
+Granica nie niszczy miłości.  
+Ona sprawia, że miłość ma gdzie oddychać.<br><br>
+
+Bo relacja, w której możesz powiedzieć „nie”,  
+jest bezpieczniejsza niż ta, w której ciągle mówisz „tak”, choć w środku coś w Tobie milknie.
+</div>
+
+</div>
+0:{"buildId":"_C9d6E2uvdhOuAugQe1p9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"id":"b922c99a-0f35-48d4-ba6d-f6648c55a3d1","title":"Dlaczego brak granic niszczy relację po cichu?","slug":"dlaczego-brak-granic-niszczy-relacje-po-cichu","category":"Relacje i związki","excerpt":"Większość z nas wyobraża sobie koniec relacji jako coś głośnego. Awantury, trzaskanie drzwiami, wielkie słowa.\n\nTymczasem najgroźniejszy zabójca bliskości działa po cichu. Nie podnosi głosu. Nie robi scen. On powoli odbiera relacji tlen.","mainImage":"https://firebasestorage.googleapis.com/v0/b/postyblogmaker.firebasestorage.app/o/blog-main-images%2F1771068581552-22.jpg?alt=media&token=51f1d442-8bc3-4f2c-a448-7101ad6d8d2a","htmlContent":"$3","published":true,"createdAt":"2026-02-14T11:30:50.000Z","updatedAt":"2026-02-14T11:30:50.000Z"}}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/_next/static/chunks/7f89c2349e581c33.js","async":true}]
+5:["$","script","script-1",{"src":"/_next/static/chunks/00208b78c5e519ea.js","async":true}]
+6:["$","script","script-2",{"src":"/_next/static/chunks/f7222ff3a176003e.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

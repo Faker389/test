@@ -1,0 +1,186 @@
+1:"$Sreact.fragment"
+2:I[65348,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js","/_next/static/chunks/7f89c2349e581c33.js","/_next/static/chunks/00208b78c5e519ea.js","/_next/static/chunks/f7222ff3a176003e.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:T1027,<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+.post {
+  font-family: 'Inter', sans-serif;
+  max-width: 720px;
+  margin: 40px auto;
+  color: #111;
+  line-height: 1.85;
+}
+
+.section {
+  font-size: 26px;
+  font-weight: 600;
+  margin: 48px 0 18px;
+}
+
+.text {
+  font-size: 18px;
+  margin-bottom: 18px;
+  color: #222;
+}
+
+.quote {
+  background: #f6f7f9;
+  border-left: 5px solid #111;
+  padding: 20px 24px;
+  margin: 32px 0;
+  border-radius: 8px;
+  font-size: 17px;
+}
+
+.exercise {
+  background: #fafafa;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  padding: 22px;
+  margin: 26px 0;
+}
+
+.exercise-title {
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.closing {
+  margin-top: 42px;
+  font-size: 19px;
+  font-weight: 500;
+}
+</style>
+
+<div class="post">
+
+<p class="text">
+Zmęczenie rzadko wchodzi do relacji z hukiem.  
+Nie robi scen. Nie ogłasza się dramatycznie.
+</p>
+
+<p class="text">
+Ono po prostu - powoli zabiera nam dostęp do siebie.  
+Do cierpliwości.  
+Do ciekawości drugiej osoby.  
+Do chęci rozmowy.
+</p>
+
+<p class="text">
+I nagle reagujemy ostrzej, niż chcemy. Krócej niż zwykle.  
+Szybciej się irytujemy. Odcinamy rozmowę, zanim na dobre się zacznie - nie dlatego, że ktoś zrobił coś wielkiego. Po prostu nie mamy już zasobów.
+</p>
+
+<div class="section">Zmęczenie jako filtr</div>
+
+<p class="text">
+Zmęczenie działa jak filtr. To, co normalnie byłoby drobnostką, zaczyna brzmieć jak atak.  
+Prośba staje się wymaganiem. Rozmowa - kolejnym obowiązkiem.
+</p>
+
+<p class="text">
+I wtedy łatwo o błędne wnioski:
+</p>
+
+<div class="quote">
+„On/ona mnie denerwuje.”<br>
+„Ta relacja jest męcząca.”<br>
+„Nie chce mi się już gadać.”
+</div>
+
+<p class="text">
+Czasem to nie relacja jest problemem.  
+Czasem to niewypowiedziane zmęczenie zaczyna mówić za nas.
+</p>
+
+<div class="section">Cichy mechanizm nieporozumień</div>
+
+<p class="text">
+Zmęczenie rzadko wygląda spektakularnie.  
+Częściej objawia się jako dystans, rozdrażnienie, wycofanie.
+</p>
+
+<p class="text">
+Druga osoba widzi chłód - nie widzi przeciążenia.
+</p>
+
+<div class="quote">
+- jedna strona reaguje krócej<br>
+- druga czuje się odrzucona<br>
+- napięcie rośnie<br>
+- rozmów jest coraz mniej
+</div>
+
+<p class="text">
+A wszystko zaczęło się od zwykłego braku energii.
+</p>
+
+<div class="section">Nazwanie zmęczenia zmienia dynamikę</div>
+
+<p class="text">
+Zmęczenie nie jest słabością relacji.  
+Problem zaczyna się wtedy, gdy udajemy, że go nie ma.
+</p>
+
+<div class="quote">
+„Jestem dziś bardzo zmęczony/a - to nie o ciebie chodzi.”
+</div>
+
+<p class="text">
+Jedno takie zdanie potrafi zatrzymać lawinę domysłów.
+</p>
+
+<p class="text">
+Relacje nie potrzebują naszej perfekcyjnej dostępności.  
+Potrzebują szczerości co do tego, ile naprawdę mamy dziś w sobie miejsca.
+</p>
+
+<div class="section">Małe ćwiczenia - jak nie pozwolić zmęczeniu sabotować relacji</div>
+
+<div class="exercise">
+<div class="exercise-title">1. Nazwij stan, zanim nazwiesz problem</div>
+Zatrzymaj się i zapytaj:  
+„Czy jestem zmęczony/a - czy naprawdę zły/a?”
+</div>
+
+<div class="exercise">
+<div class="exercise-title">2. Uprzedź zamiast reagować</div>
+Powiedz wcześniej:  
+„Mam dziś mało energii - to nie przeciwko tobie.”
+</div>
+
+<div class="exercise">
+<div class="exercise-title">3. Mikro-pauza</div>
+Czujesz narastającą irytację?  
+„Daj mi chwilę - potrzebuję oddechu.”
+</div>
+
+<div class="exercise">
+<div class="exercise-title">4. Oddziel relację od stanu</div>
+Zamiast: „Ta rozmowa mnie męczy”  
+→ „Jestem zmęczony/a - rozmowa to pokazuje.”
+</div>
+
+<div class="exercise">
+<div class="exercise-title">5. Sprawdź zasoby</div>
+„Czy mam teraz energię na tę rozmowę?”  
+Jeśli nie - zaproponuj inny moment.
+</div>
+
+<p class="closing">
+Zmęczenie nie niszczy relacji.  
+Ale nieuświadomione - potrafi je po cichu nadwyrężać.<br><br>
+
+Czasem największym aktem troski wobec relacji jest powiedzenie:<br>
+„Dziś mam mniej siebie - ale to nie znaczy, że mniej mi zależy.”
+</p>
+
+</div>
+0:{"buildId":"_C9d6E2uvdhOuAugQe1p9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"id":"904a0a3b-f26d-4826-b1a7-68f4a07ca0ab","category":"Relacje i związki","published":true,"createdAt":"2026-02-09T16:27:18.000Z","mainImage":"https://firebasestorage.googleapis.com/v0/b/postyblogmaker.firebasestorage.app/o/blog-main-images%2F1770654535284-21.jpg?alt=media&token=5fd34d28-a7a0-4815-808d-c677a2b02760","excerpt":"Zmęczenie rzadko wchodzi do relacji z hukiem. Nie robi scen. Nie ogłasza się dramatycznie.\n\nOno po prostu - powoli zabiera nam dostęp do siebie. Do cierpliwości. Do ciekawości drugiej osoby. Do chęci rozmowy.","title":"Zmęczenie jako cichy sabotaż relacji","slug":"zmeczenie-jako-cichy-sabotaz-relacji","htmlContent":"$3","updatedAt":"2026-02-09T16:30:16.000Z"}}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/_next/static/chunks/7f89c2349e581c33.js","async":true}]
+5:["$","script","script-1",{"src":"/_next/static/chunks/00208b78c5e519ea.js","async":true}]
+6:["$","script","script-2",{"src":"/_next/static/chunks/f7222ff3a176003e.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

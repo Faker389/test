@@ -1,0 +1,188 @@
+1:"$Sreact.fragment"
+2:I[65348,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js","/_next/static/chunks/7f89c2349e581c33.js","/_next/static/chunks/00208b78c5e519ea.js","/_next/static/chunks/f7222ff3a176003e.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:T1105,<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+.post {
+  font-family: 'Inter', sans-serif;
+  max-width: 760px;
+  margin: 60px auto;
+  color: #111;
+  line-height: 1.9;
+}
+
+.title {
+  font-size: 34px;
+  font-weight: 700;
+  margin-bottom: 32px;
+}
+
+.section {
+  font-size: 26px;
+  font-weight: 600;
+  margin: 56px 0 20px;
+}
+
+.text {
+  font-size: 18px;
+  margin-bottom: 18px;
+  color: #222;
+}
+
+.quote {
+  background: #f6f7f9;
+  border-left: 5px solid #111;
+  padding: 24px;
+  margin: 36px 0;
+  border-radius: 10px;
+  font-size: 18px;
+}
+
+.stage {
+  background: #fafafa;
+  border: 1px solid #e8e8e8;
+  border-radius: 14px;
+  padding: 24px;
+  margin: 28px 0;
+}
+
+.stage-title {
+  font-weight: 600;
+  margin-bottom: 12px;
+  font-size: 18px;
+}
+
+.closing {
+  margin-top: 50px;
+  font-size: 20px;
+  font-weight: 500;
+}
+</style>
+
+<div class="post">
+
+<p class="text">
+Na początku wszystko jest proste. Chcesz być blisko. Chcesz spędzać razem czas. Naturalnie zaczynasz się dopasowywać.
+</p>
+
+<p class="text">
+Lubisz to, co lubi druga osoba. Przesuwasz swoje plany. Zmniejszasz swoje potrzeby, żeby było dobrze.
+</p>
+
+<p class="text">
+I przez długi czas nawet nie zauważasz, że coś się zmienia.
+</p>
+
+<div class="quote">
+Gubienie siebie w związku nie dzieje się nagle.  
+Ono dzieje się po cichu.
+</div>
+
+<div class="section">Kiedy zaczynasz znikać</div>
+
+<p class="text">
+Nie tracisz siebie w jednym wielkim momencie. Tracisz siebie w drobnych decyzjach.
+</p>
+
+<p class="text">
+Nie mówisz, że coś Ci przeszkadza.  
+Nie wyrażasz odmiennego zdania.  
+Nie robisz rzeczy, które kiedyś były dla Ciebie ważne.
+</p>
+
+<p class="text">
+Mówisz sobie, że to nic takiego. Że związek wymaga kompromisów. Że nie chcesz robić problemu.
+</p>
+
+<p class="text">
+Tylko że kompromis to sytuacja, w której obie strony coś zmieniają.  
+Zgubienie siebie to sytuacja, w której zmienia się tylko jedna.
+</p>
+
+<div class="section">Dlaczego tak łatwo się zatracić?</div>
+
+<p class="text">
+Bo bliskość bywa mylona z rezygnacją z siebie.
+</p>
+
+<p class="text">
+Chcemy być kochani, więc się dostosowujemy.  
+Chcemy uniknąć konfliktu, więc milczymy.  
+Chcemy utrzymać relację, więc zmniejszamy swoje potrzeby.
+</p>
+
+<p class="text">
+Z czasem pojawia się coś trudnego do nazwania.  
+Poczucie, że jesteś mniej sobą.  
+Irytacja bez wyraźnego powodu.  
+Zmęczenie relacją, która przecież jest dobra.
+</p>
+
+<div class="quote">
+To sygnały, że Twoje „ja” zaczęło się wycofywać.
+</div>
+
+<div class="section">Zdrowa relacja nie wymaga rezygnacji z tożsamości</div>
+
+<p class="text">
+W dojrzałym związku są dwie osoby. Dwa światy. Dwie historie. Dwie potrzeby.
+</p>
+
+<p class="text">
+Bliskość nie polega na zlewaniu się w jedno.  
+Polega na spotkaniu dwóch ludzi, którzy potrafią być sobą i jednocześnie być razem.
+</p>
+
+<div class="quote">
+Jeśli musisz przestać być sobą, żeby relacja działała,  
+to nie jest cena miłości.  
+To sygnał ostrzegawczy.
+</div>
+
+<div class="section">Jak nie zgubić siebie w związku?</div>
+
+<div class="stage">
+<div class="stage-title">1. Dbaj o swój świat</div>
+Zainteresowania. Przyjaźnie. Czas tylko dla siebie.  
+Związek nie powinien być jedynym źródłem Twojej tożsamości.
+</div>
+
+<div class="stage">
+<div class="stage-title">2. Mów, nawet jeśli to niewygodne</div>
+Twoje zdanie ma znaczenie.  
+Twoje „nie” ma znaczenie.  
+Twoje potrzeby mają znaczenie.
+</div>
+
+<div class="stage">
+<div class="stage-title">3. Zauważ, kiedy zaczynasz się kurczyć</div>
+Jeśli boisz się wyrazić odmienne zdanie, tłumisz emocje albo czujesz, że musisz być łatwiejszą wersją siebie, to sygnał, że coś wymaga uwagi.
+</div>
+
+<div class="stage">
+<div class="stage-title">4. Pamiętaj, że miłość nie wymaga znikania</div>
+Miłość nie wymaga, żebyś stał się mniejszy.  
+Nie wymaga, żebyś przestał czuć.  
+Nie wymaga, żebyś zrezygnował z siebie.
+</div>
+
+<div class="closing">
+Związek ma być miejscem, w którym możesz być bardziej sobą, nie mniej.<br><br>
+
+Jeśli czujesz, że powoli tracisz kontakt ze sobą, zatrzymaj się.  
+Nie po to, żeby wszystko burzyć.  
+Po to, żeby wrócić do siebie.<br><br>
+
+Bo relacja, w której nie ma Ciebie,  
+nie może być naprawdę Twoja.
+</div>
+
+</div>
+0:{"buildId":"_C9d6E2uvdhOuAugQe1p9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"id":"50c5bbb0-adf2-4eb7-b3b7-bf9d08f616a7","title":"Jak nie zgubić siebie w związku","slug":"jak-nie-zgubic-siebie-w-zwiazku","category":"Relacje i związki","excerpt":"Na początku wszystko jest proste. Chcesz być blisko. Chcesz spędzać razem czas. Naturalnie zaczynasz się dopasowywać.\n\nLubisz to, co lubi druga osoba. Przesuwasz swoje plany. Zmniejszasz swoje potrzeby, żeby było dobrze.","mainImage":"https://firebasestorage.googleapis.com/v0/b/postyblogmaker.firebasestorage.app/o/blog-main-images%2F1771511581021-23.jpg?alt=media&token=5437893e-7708-4039-aec7-3673b06c36e2","htmlContent":"$3","published":true,"createdAt":"2026-02-19T14:33:22.000Z","updatedAt":"2026-02-19T14:33:22.000Z"}}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/_next/static/chunks/7f89c2349e581c33.js","async":true}]
+5:["$","script","script-1",{"src":"/_next/static/chunks/00208b78c5e519ea.js","async":true}]
+6:["$","script","script-2",{"src":"/_next/static/chunks/f7222ff3a176003e.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

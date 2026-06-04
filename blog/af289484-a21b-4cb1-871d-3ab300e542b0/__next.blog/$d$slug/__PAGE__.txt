@@ -1,0 +1,203 @@
+1:"$Sreact.fragment"
+2:I[65348,["/_next/static/chunks/fcba8160327439c9.js","/_next/static/chunks/5ab255cd557fbf02.js","/_next/static/chunks/7f89c2349e581c33.js","/_next/static/chunks/00208b78c5e519ea.js","/_next/static/chunks/f7222ff3a176003e.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:T10d2,<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+.post {
+  font-family: 'Inter', sans-serif;
+  max-width: 720px;
+  margin: 40px auto;
+  color: #111;
+  line-height: 1.85;
+}
+
+/* nagłówki */
+
+.section {
+  font-size: 26px;
+  font-weight: 600;
+  margin: 48px 0 18px;
+}
+
+/* tekst */
+
+.text {
+  font-size: 18px;
+  margin-bottom: 18px;
+  color: #222;
+}
+
+/* cytaty */
+
+.quote {
+  background: #f6f7f9;
+  border-left: 5px solid #111;
+  padding: 20px 24px;
+  margin: 32px 0;
+  border-radius: 8px;
+  font-size: 17px;
+}
+
+/* ćwiczenia */
+
+.exercise {
+  background: #fafafa;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  padding: 22px;
+  margin: 26px 0;
+}
+
+.exercise-title {
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+/* zakończenie */
+
+.closing {
+  margin-top: 42px;
+  font-size: 19px;
+  font-weight: 500;
+}
+</style>
+
+<div class="post">
+
+<p class="text">
+To jedno z tych zdań, które brzmią uspokajająco.<br>
+A czasem znaczą dokładnie odwrotnie.
+</p>
+
+<p class="text">
+Mówisz „wszystko jest okej”, bo nie masz siły tłumaczyć.  
+Bo nie chcesz zaczynać rozmowy, na którą nie wiesz, jak się skończy.
+</p>
+
+<p class="text">
+Przez chwilę rzeczywiście bywa spokojniej.  
+Ciszej. Bez napięcia na powierzchni.
+</p>
+
+<div class="section">Co zostaje niewypowiedziane</div>
+
+<p class="text">
+Emocje zostają w środku.  
+Tematy - niedotknięte.  
+Napięcie przykrywa codzienność.
+</p>
+
+<p class="text">
+Z zewnątrz: cisza.<br>
+W środku: dystans.
+</p>
+
+<div class="quote">
+Cisza w relacji nie zawsze oznacza spokój.  
+Czasem oznacza tylko to, że nikt nie mówi tego, co ważne.
+</div>
+
+<div class="section">Dlaczego tak robimy</div>
+
+<p class="text">
+Często wycofujemy się nie dlatego, że nam nie zależy.  
+Tylko dlatego, że zależy nam za bardzo.
+</p>
+
+<p class="text">
+Boimy się, że rozmowa coś popsuje.  
+Że emocje wymkną się spod kontroli.  
+Że powiemy za dużo.
+</p>
+
+<p class="text">
+„Wszystko jest okej” staje się wtedy bezpiecznym „nie teraz”.
+</p>
+
+<div class="section">Jedno zdanie, które zmienia kierunek</div>
+
+<div class="quote">
+„Nie czuję się z tym okej.  
+Pogadajmy, żeby się zrozumieć.”
+</div>
+
+<p class="text">
+To zdanie nie rozwiązuje wszystkiego.  
+Ale otwiera drzwi — zamiast je po cichu zamykać.
+</p>
+
+<div class="section">Ćwiczenia i pytania do autorefleksji</div>
+
+<div class="exercise">
+<div class="exercise-title">Ćwiczenie 1 - Co naprawdę znaczy „okej”</div>
+Przypomnij sobie ostatnią sytuację, gdy powiedziałeś/powiedziałaś „wszystko jest okej”.<br><br>
+– Co wtedy czułem/czułam?<br>
+– Czego się bałem/bałam?<br>
+– Co chciałem/chciałam w ten sposób ochronić?
+</div>
+
+<div class="exercise">
+<div class="exercise-title">Ćwiczenie 2 - Jedno zdanie prawdy</div>
+Spróbuj zamienić „wszystko jest okej” na zdanie opisujące Twój stan bez oskarżeń.<br><br>
+Np. „Nie jest mi teraz łatwo o tym mówić, ale to dla mnie ważne.”
+</div>
+
+<div class="section">Jak mówić o trudnych emocjach bez eskalacji</div>
+
+<p class="text">
+Wielu z nas nie boi się samych emocji.  
+Boimy się tego, co może się wydarzyć, gdy zaczniemy o nich mówić.
+</p>
+
+<p class="text">
+Że rozmowa zamieni się w konflikt.  
+Że ktoś poczuje się zaatakowany.  
+Że nie będzie już odwrotu.
+</p>
+
+<div class="section">Dlaczego rozmowy się zaostrzają</div>
+
+<p class="text">
+Często zaczynamy od ocen: „zawsze”, „nigdy”, „bo ty”.
+</p>
+
+<p class="text">
+Druga osoba słyszy zarzut, nawet jeśli chcieliśmy tylko opowiedzieć o swoim stanie.
+</p>
+
+<div class="quote">
+Emocje eskalują nie dlatego, że są trudne - 
+ale dlatego, że czujemy się w nich niezrozumiani.
+</div>
+
+<div class="section">Trzy zasady, które zmieniają rozmowę</div>
+
+<p class="text">
+1. <strong>Mów o sobie, nie o winie.</strong><br>
+„Czuję się…” zamiast „Ty zawsze…”
+</p>
+
+<p class="text">
+2. <strong>Zadbaj o tempo.</strong><br>
+Trudna rozmowa nie musi wydarzyć się natychmiast.
+</p>
+
+<p class="text">
+3. <strong>Szukaj zrozumienia, nie racji.</strong><br>
+Wygrana rozmowa rzadko buduje bliskość.
+</p>
+
+<p class="closing">
+Bliskość nie znika, gdy pojawiają się trudne emocje.<br>
+Znika wtedy, gdy przestajemy o nich mówić.
+</p>
+
+</div>
+0:{"buildId":"_C9d6E2uvdhOuAugQe1p9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"id":"af289484-a21b-4cb1-871d-3ab300e542b0","title":"„Wszystko jest okej”","slug":"wszystko-jest-okej","category":"Relacje i związki","excerpt":"To jedno z tych zdań, które brzmią uspokajająco.\nA czasem znaczą dokładnie odwrotnie.\n\nMówisz „wszystko jest okej”, bo nie masz siły tłumaczyć. Bo nie chcesz zaczynać rozmowy, na którą nie wiesz, jak się skończy.\n\nPrzez chwilę rzeczywiście bywa spokojniej. Ciszej. Bez napięcia na powierzchni.","mainImage":"https://storage.googleapis.com/postyblogmaker.firebasestorage.app/blog-main-images/29408c32-8582-4af2-b0d0-75947011f618.jpeg","published":true,"createdAt":"2026-01-28T15:12:12.000Z","htmlContent":"$3","updatedAt":"2026-02-08T19:16:06.000Z"}}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/_next/static/chunks/7f89c2349e581c33.js","async":true}]
+5:["$","script","script-1",{"src":"/_next/static/chunks/00208b78c5e519ea.js","async":true}]
+6:["$","script","script-2",{"src":"/_next/static/chunks/f7222ff3a176003e.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null
